@@ -1,1 +1,1 @@
-# taskmill-core-dispatcher
+# taskmill-core-relay
