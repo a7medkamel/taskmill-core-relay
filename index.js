@@ -1,8 +1,5 @@
-var dispatch = require('./lib/dispatch')
-  , registry = require('./lib/agent/registry')
-  ;
+var Relay = require('./lib/relay');
 
 module.exports = {
-    dispatch : dispatch
-  , registry : registry
+    Relay     : Relay
 };
