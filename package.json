@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/a7medkamel/taskmill-core-relay.git"
   },
-  "author": "a7medkamel <ak@ahmedkamel.net>",
+  "author": "a7medkamel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/a7medkamel/taskmill-core-relay/issues"
@@ -19,17 +19,11 @@
   "dependencies": {
     "async": "^1.3.0",
     "bluebird": "^2.9.34",
-    "dnode-http-stream": "git+https://github.com/a7medkamel/dnode-http-stream.git",
     "express": "^4.13.1",
     "memorystream": "^0.3.1",
     "node-uuid": "^1.4.3",
-    "parse-header-stream": "git+https://github.com/a7medkamel/parse-header-stream.git",
     "socket.io": "^1.3.6",
-    "socket.io-stream": "^0.8.0",
     "taskmill-core-man": "git+https://github.com/a7medkamel/taskmill-core-man.git",
-    "through2": "^2.0.0",
-    "through2-spy": "^2.0.0",
-    "underscore": "^1.8.3",
-    "upnode": "git+https://github.com/a7medkamel/upnode.git"
+    "underscore": "^1.8.3"
   }
 }
