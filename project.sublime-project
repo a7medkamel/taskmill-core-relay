@@ -2,9 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "/Users/ahmedkamel/Documents/localhost/taskmill-core-relay",
-			"folder_exclude_patterns": ["node_modules"],
-			"file_exclude_patterns": ["project.sublime-workspace", "project.sublime-project"]
+			"path": "/Users/ahmedkamel/Documents/localhost/taskmill-core-relay"
 		}
 	]
 }
