@@ -21,6 +21,8 @@
     "bluebird": "^2.9.34",
     "express": "^4.13.1",
     "memorystream": "^0.3.1",
+    "request": "^2.61.0",
+    "request-promise": "^0.4.3",
     "taskmill-core-man": "git+https://github.com/a7medkamel/taskmill-core-man.git",
     "taskmill-core-relay-registry": "git+https://github.com/a7medkamel/taskmill-core-relay-registry.git",
     "underscore": "^1.8.3",
