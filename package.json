@@ -1,6 +1,6 @@
 {
   "name": "taskmill-core-relay",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,17 +17,15 @@
   },
   "homepage": "https://github.com/a7medkamel/taskmill-core-relay#readme",
   "dependencies": {
-    "async": "^1.3.0",
-    "babel-core": "^6.4.0",
-    "bluebird": "^3.1.1",
-    "express": "^4.13.1",
+    "babel-core": "^6.5.1",
+    "bluebird": "^3.2.2",
     "localtunnel-server": "git+https://github.com/a7medkamel/localtunnel-server.git",
     "memorystream": "^0.3.1",
     "on-finished": "^2.3.0",
     "on-headers": "^1.0.1",
-    "request": "^2.61.0",
+    "request": "^2.69.0",
     "request-promise": "^2.0.0",
-    "socket.io": "^1.3.7",
+    "socket.io": "^1.4.5",
     "taskmill-core-man": "git+https://github.com/a7medkamel/taskmill-core-man.git",
     "underscore": "^1.8.3",
     "weighted": "^0.3.0"
