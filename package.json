@@ -20,7 +20,6 @@
     "babel-core": "^6.5.1",
     "bluebird": "^3.2.2",
     "localtunnel-server": "git+https://github.com/a7medkamel/localtunnel-server.git",
-    "memorystream": "^0.3.1",
     "on-finished": "^2.3.0",
     "on-headers": "^1.0.1",
     "request": "^2.69.0",
