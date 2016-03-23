@@ -31,6 +31,7 @@
     "sha1": "^1.1.1",
     "socket.io": "^1.4.5",
     "taskmill-core-man": "git+https://github.com/a7medkamel/taskmill-core-man.git",
+    "config-url": "git+https://github.com/a7medkamel/config-url.git",
     "underscore": "^1.8.3",
     "weighted": "^0.3.0"
   }
