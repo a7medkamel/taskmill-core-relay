@@ -19,11 +19,13 @@
   "dependencies": {
     "babel-core": "^6.5.1",
     "bluebird": "^3.2.2",
+    "config": "^1.19.0",
     "content-type": "^1.0.1",
     "localtunnel-server": "git+https://github.com/a7medkamel/localtunnel-server.git",
     "on-finished": "^2.3.0",
     "on-headers": "^1.0.1",
     "parse-cache-control": "^1.0.1",
+    "rand-token": "^0.2.1",
     "request": "^2.69.0",
     "request-promise": "^2.0.0",
     "sha1": "^1.1.1",
