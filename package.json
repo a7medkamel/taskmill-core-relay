@@ -18,8 +18,10 @@
   "homepage": "https://github.com/a7medkamel/taskmill-core-relay#readme",
   "dependencies": {
     "babel-core": "^6.5.1",
+    "babel-register": "^6.11.6",
     "bluebird": "^3.2.2",
     "config": "^1.19.0",
+    "config-url": "git+https://github.com/a7medkamel/config-url.git",
     "content-type": "^1.0.1",
     "localtunnel-server": "git+https://github.com/a7medkamel/localtunnel-server.git",
     "on-finished": "^2.3.0",
@@ -31,8 +33,9 @@
     "sha1": "^1.1.1",
     "socket.io": "^1.4.5",
     "taskmill-core-man": "git+https://github.com/a7medkamel/taskmill-core-man.git",
-    "config-url": "git+https://github.com/a7medkamel/config-url.git",
     "underscore": "^1.8.3",
-    "weighted": "^0.3.0"
+    "url-join": "^1.1.0",
+    "weighted": "^0.3.0",
+    "winston": "^2.2.0"
   }
 }
