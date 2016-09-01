@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/a7medkamel/taskmill-core-relay#readme",
   "dependencies": {
-    "babel-core": "^6.5.1",
     "bluebird": "^3.2.2",
     "config": "^1.19.0",
     "config-url": "git+https://github.com/a7medkamel/config-url.git",
@@ -30,7 +29,6 @@
     "request-promise": "^2.0.0",
     "sha1": "^1.1.1",
     "socket.io": "^1.4.5",
-    "taskmill-core-man": "git+https://github.com/a7medkamel/taskmill-core-man.git",
     "underscore": "^1.8.3",
     "url-join": "^1.1.0",
     "weighted": "^0.3.0",
