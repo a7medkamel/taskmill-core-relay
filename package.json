@@ -22,7 +22,6 @@
     "config-url": "git+https://github.com/a7medkamel/config-url.git",
     "content-type": "^1.0.1",
     "on-finished": "^2.3.0",
-    "on-headers": "^1.0.1",
     "parse-cache-control": "^1.0.1",
     "rand-token": "^0.2.1",
     "request": "^2.69.0",
